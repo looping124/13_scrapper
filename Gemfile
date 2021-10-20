@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+ruby '2.7.4'
+gem 'rspec'
+gem 'pry'
+gem 'rubocop'
+gem 'dotenv' 
+gem 'byebug'
+gem 'open-uri'
+gem "pkg-config"
+gem 'nokogiri'
+gem 'json'
+gem 'google_drive'
+gem 'csv'
